@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">assign</string>
+    <string name="welcome">Welcome</string>
+    <string name="to_the_app">to the app</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="no_account">No Account?</string>
+    <string name="confirm_login">Confirm Login</string>
+    <string name="login">Login</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="re_enter_password">Confirm Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="upload_photo">upload photo</string>
+    <string name="name">Name</string>
+    <string name="dob">DOB</string>
+    <string name="contact">Contact</string>
+    <string name="number">number</string>
+    <string name="address">Address</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+</resources>

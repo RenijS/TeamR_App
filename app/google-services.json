@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "511090306613",
+    "firebase_url": "https://cse2mad-assign.firebaseio.com",
+    "project_id": "cse2mad-assign",
+    "storage_bucket": "cse2mad-assign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511090306613:android:90a4c7da81bcdc6571cb7c",
+        "android_client_info": {
+          "package_name": "com.example.assign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511090306613-7js3knc163c5ubqi87s0s5f598j84sb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assign",
+            "certificate_hash": "ea6cfecd1467af2fb18339f4da283b29eec3d5ae"
+          }
+        },
+        {
+          "client_id": "511090306613-3f6cd4f19hdm8a9n53h8l0mf9m1oothp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsUSuggRRvz0BqsfRPPPkXCvSvKxHSTb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511090306613-3f6cd4f19hdm8a9n53h8l0mf9m1oothp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
