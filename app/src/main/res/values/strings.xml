@@ -18,4 +18,6 @@
     <string name="address">Address</string>
     <string name="cancel">Cancel</string>
     <string name="save">Save</string>
+    <string name="logout">Logout</string>
+    <string name="delete_account">Delete Account</string>
 </resources>
