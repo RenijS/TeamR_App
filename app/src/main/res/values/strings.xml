@@ -20,4 +20,22 @@
     <string name="save">Save</string>
     <string name="logout">Logout</string>
     <string name="delete_account">Delete Account</string>
+    <string name="type_message_here">Type message here...</string>
+    <string name="send">SEND</string>
+    <string name="therapist">Therapist:</string>
+    <string name="date">Date:</string>
+    <string name="select_date">Select Date</string>
+    <string name="time">Time:</string>
+    <string name="select_time">Select Time</string>
+    <string name="make_appointment">Make Appointment</string>
+    <string name="view_appointment">View Appointment</string>
+    <string name="confirm">Confirm</string>
+
+    <string-array name="therapist_name">
+        <item>Renij</item>
+        <item>Alin</item>
+        <item>Carina</item>
+        <item>Rachel</item>
+        <item>Pam</item>
+    </string-array>
 </resources>
